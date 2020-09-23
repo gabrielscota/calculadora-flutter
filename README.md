@@ -12,10 +12,8 @@ Projeto feito para simular uma calculadora utilizando o framework do Flutter.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png?raw=true "Screenshot 1")
-<br>
-
-![Screenshot 2](screenshots/screenshot2.png?raw=true "Screenshot 2")
-<br>
-
-![Screenshot 3](screenshots/screenshot3.png?raw=true "Screenshot 3")
+<p float="left">
+  <img src="screenshots/screenshot1.png" width="160" />
+  <img src="screenshots/screenshot2.png" width="160" /> 
+  <img src="screenshots/screenshot3.png" width="160" />
+</p>
